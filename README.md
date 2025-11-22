@@ -1,7 +1,6 @@
 # Akshar Ramkumar
 
 **Email:** aramkuma [at] caltech [dot] edu  
-
 [Google Scholar](https://scholar.google.com/citations?user=u-EWI-wAAAAJ) · [CV](./cv.pdf)
 
 ---
