@@ -8,7 +8,7 @@
 
 ## About
 
-I am a fourth-year undergraduate at Caltech, majoring in mathematics! I am passionate about all kinds of theoretical math, especially algebraic geometry and number theory. Most recently, I have been learning more Hodge theory, and I am excited to take a class about local Langlands later this year. I also really love quantum computing – over the last several years, I've worked on research projects related to quantum Gibbs sampling, as well as the cryptographic applications and complexity of quantum error correction. I am also fascinated by the types of mathematical structures and tasks for which quantum computers are well-suited, and the possibility of yet undiscovered quantum exponential speedups. For my senior thesis, I am exploring research questions along these lines. 
+I am a fourth-year undergraduate at Caltech, majoring in mathematics! I am passionate about all kinds of theoretical math, especially algebraic geometry and number theory. Most recently, I have been learning more Hodge theory, and I am excited to take a class about local Langlands later this year. I really love quantum computing as well – over the last several years, I've worked on research projects related to quantum Gibbs sampling, as well as the cryptographic applications and complexity of quantum error correction. I am also fascinated by the types of mathematical structures and tasks for which quantum computers are well-suited, and the possibility of yet undiscovered quantum exponential speedups. For my senior thesis, I am exploring research questions along these lines. 
 
 Please reach out if you are interested in chatting, about math, quantum computing, or anything else!
 
