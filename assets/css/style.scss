@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the built-in header block */
+header {
+  display: none;
+}
+
+/* Let the content expand instead of leaving a blank strip */
+section {
+  float: none;
+  width: auto;
+}
