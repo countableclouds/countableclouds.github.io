@@ -13,9 +13,11 @@ Please reach out if you are interested in chatting, about math, quantum computin
 
 ---
 
-## Manuscripts
+## Manuscripts   
+(For manuscript with red bullet points, all authors have equal contribution and are listed in alphabetical order.
 
-- *Average-Case Complexity of Quantum Stabilizer Decoding*, September 2025  
+- *Average-Case Complexity of Quantum Stabilizer Decoding*, September 2025
+  {: .red-bullets}
   Andrey Boris Khesin, Jonathan Z. Lu, Alexander Poremba, **Akshar Ramkumar**, Vinod Vaikuntanathan  
   \[QIP 2026 Contributed Talk\], \[[Arxiv:2509.20697](https://arxiv.org/pdf/2509.20697)\]
 
