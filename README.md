@@ -14,7 +14,7 @@ Please reach out if you are interested in chatting, about math, quantum computin
 ---
 
 ## Manuscripts   
-(For manuscript with red bullet points, all authors have equal contribution and are listed in alphabetical order.
+(For manuscript with red bullet points, all authors have equal contribution and are listed in alphabetical order).
 
 - *Average-Case Complexity of Quantum Stabilizer Decoding*, September 2025
   {: .red-bullets}
