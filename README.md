@@ -1,9 +1,13 @@
 # Akshar Ramkumar
-
+<img
+  src="pics/Akshar_Photo.jpg"
+  alt="Profile photo"
+  style="float:right; width:150px; height:150px; border-radius:50%; object-fit:cover; margin: 0 1rem 1rem;"
+/>
 **Email:** aramkuma [at] caltech [dot] edu  
 [Google Scholar](https://scholar.google.com/citations?user=u-EWI-wAAAAJ) · [CV](./cv.pdf)
 
-![image](pics/Akshar_Photo.jpg)
+
 
 ---
 
