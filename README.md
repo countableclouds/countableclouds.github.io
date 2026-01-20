@@ -3,6 +3,8 @@
 **Email:** aramkuma [at] caltech [dot] edu  
 [Google Scholar](https://scholar.google.com/citations?user=u-EWI-wAAAAJ) · [CV](./cv.pdf)
 
+<img src="pics/Akshar_Photo.jpg" alt="Akshar Ramkumar">
+
 ---
 
 ## About
