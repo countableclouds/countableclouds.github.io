@@ -2,12 +2,13 @@
 <img
   src="pics/Akshar_Photo.jpg"
   alt="Profile photo"
-  style="float:right; width:200px; height:200px; border-radius:50%; object-fit:cover; margin:-100px 0 1rem 1rem;"
+  style="float:right; width:200px; height:200px; border-radius:50%; object-fit:cover; margin:-75px 0 1rem 1rem;"
 />
 **Email:** aramkuma [at] caltech [dot] edu  
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=u-EWI-wAAAAJ) · [CV](./cv.pdf)
-
+<br>
+<br>
 
 ---
 
