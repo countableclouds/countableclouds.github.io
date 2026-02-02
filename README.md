@@ -26,15 +26,15 @@ Please reach out if you are interested in chatting, about math, quantum computin
 - {: .red-bullets}
   *Average-Case Complexity of Quantum Stabilizer Decoding*, September 2025    
   Andrey Boris Khesin, Jonathan Z. Lu, Alexander Poremba, **Akshar Ramkumar**, Vinod Vaikuntanathan  
-  \[QIP 2026 Contributed Talk\], \[[Arxiv:2509.20697](https://arxiv.org/pdf/2509.20697)\]
+  QIP 2026, STOC 2026, \[[Arxiv:2509.20697](https://arxiv.org/pdf/2509.20697)\]
 
 - *High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States*, May 2025  
   **Akshar Ramkumar**, Yiyi Cai, Yu Tong, Jiaqing Jiang   
-  \[QIP 2026 Contributed Talk\], \[[Arxiv:2505.09730](https://arxiv.org/pdf/2505.09730)\]
+  QIP 2026, \[[Arxiv:2505.09730](https://arxiv.org/pdf/2505.09730)\]
 
 - *Mixing time of quantum Gibbs sampling for random sparse Hamiltonians*, November 2024    
   **Akshar Ramkumar**, Mehdi Soleimanifar  
-  \[TQC 2025 Contributed Talk\], \[[Arxiv:2411.04454](https://arxiv.org/pdf/2411.04454)\]
+  TQC 2025, \[[Arxiv:2411.04454](https://arxiv.org/pdf/2411.04454)\]
 
 ---
 
