@@ -14,7 +14,7 @@
 
 ## About
 
-I am a fourth-year undergraduate at Caltech, majoring in mathematics! I will be a Master's student at Cambridge next year, and starting as a Berkeley PhD student in 2027. I love quantum computing and mathematics. Recently, I've been interested in quantum algorithms in mathematics, quantum Gibbs sampling, post-quantum cryptography, and unitary synthesis. 
+I am a fourth-year undergraduate at Caltech, majoring in mathematics! I will be a Master's student at Cambridge next year, and starting as a PhD student at Berkeley in 2027. I love quantum computing and mathematics. Recently, I've been interested in quantum algorithms in mathematics, quantum Gibbs sampling, post-quantum cryptography, and unitary synthesis. 
 
 Please reach out if you are interested in chatting, about math, quantum computing, or anything else!
 
