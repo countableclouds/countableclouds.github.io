@@ -25,7 +25,7 @@ Please reach out if you are interested in chatting, about math, quantum computin
 
 - {: .red-bullets}
   *Post-Quantum Cryptography from Quantum Stabilizer Decoding*, March 2026    
-  Jonathan Z. Lu, Alexander Poremba, Yihui Quek, **Akshar Ramkumar**
+  Jonathan Z. Lu, Alexander Poremba, Yihui Quek, **Akshar Ramkumar**  
   CRYPTO 2026, \[[Arxiv:2603.19110](https://arxiv.org/pdf/2603.19110)\]
 
 - {: .red-bullets}
