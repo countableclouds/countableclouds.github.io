@@ -14,7 +14,7 @@
 
 ## About
 
-I am a fourth-year undergraduate at Caltech, majoring in mathematics! I am passionate about all kinds of theoretical math, especially algebraic geometry and number theory. Most recently, I have been learning more Hodge theory, and I am excited to take a class about local Langlands later this year. I really love quantum computing as well – over the last several years, I've worked on research projects related to quantum Gibbs sampling, as well as the cryptographic applications and complexity of quantum error correction. I am also fascinated by the types of mathematical structures and tasks for which quantum computers are well-suited, and the possibility of yet undiscovered quantum exponential speedups. For my senior thesis, I am exploring research questions along these lines. 
+I am a fourth-year undergraduate at Caltech, majoring in mathematics! I will be a Master's student at Cambridge next year, and starting as a Berkeley PhD student in 2027. I love quantum computing and mathematics. Recently, I've been interested in quantum algorithms in mathematics, quantum Gibbs sampling, post-quantum cryptography, and unitary synthesis. 
 
 Please reach out if you are interested in chatting, about math, quantum computing, or anything else!
 
@@ -22,6 +22,11 @@ Please reach out if you are interested in chatting, about math, quantum computin
 
 ## Manuscripts   
 (For manuscript with red bullet points, all authors have equal contribution and are listed in alphabetical order).
+
+- {: .red-bullets}
+  *Post-Quantum Cryptography from Quantum Stabilizer Decoding*, March 2026    
+  Jonathan Z. Lu, Alexander Poremba, Yihui Quek, **Akshar Ramkumar**
+  CRYPTO 2026, \[[Arxiv:2603.19110](https://arxiv.org/pdf/2603.19110)\]
 
 - {: .red-bullets}
   *Average-Case Complexity of Quantum Stabilizer Decoding*, September 2025    
@@ -39,9 +44,12 @@ Please reach out if you are interested in chatting, about math, quantum computin
 ---
 
 ## Talks
-
-- **High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States**  (upcoming)
-  - Quantum Information Processing (QIP), January 2026
+- **Post-Quantum Cryptography from Quantum Stabilizer Decoding** (upcoming)
+  - CRYPTO, August 2026
+- **Average-Case Complexity of Quantum Stabilizer Decoding** (upcoming)
+  - STOC, June 2026
+- **High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States** 
+  - QIP, January 2026
 - **Mixing time of quantum Gibbs sampling for random sparse Hamiltonians** · \[[slides](./slides/tqc_presentation_2025.pptx)\] · \[[video](https://www.youtube.com/watch?v=HQvTBtaSHbI)\]  
-  - Theory of Quantum Computation, Communication and Cryptography (TQC), September 2025
+  - TQC, September 2025
 
