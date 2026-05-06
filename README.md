@@ -49,7 +49,7 @@ Please reach out if you are interested in chatting, about math, quantum computin
 - **Average-Case Complexity of Quantum Stabilizer Decoding** (upcoming)
   - STOC, June 2026
 - **High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States** 
-  - QIP, January 2026
+  - QIP, January 2026 · \[[slides](./slides/qip_presentation_2026.pptx)\]
 - **Mixing time of quantum Gibbs sampling for random sparse Hamiltonians** · \[[slides](./slides/tqc_presentation_2025.pptx)\] · \[[video](https://www.youtube.com/watch?v=HQvTBtaSHbI)\]  
   - TQC, September 2025
 
